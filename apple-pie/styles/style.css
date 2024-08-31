@@ -33,7 +33,7 @@ body {
   align-items: center;
 }
 
-.header-container{
+.header{
   background-image: url("../images/apple-pie.jpg");
   background-size: cover;
   height: 600px;
@@ -63,12 +63,11 @@ h2{
   line-height: 1.3em;
 }
 
-img{
+.wrapper img{
   margin: 25px 0;
   width: 50%;
   margin-top: 40px;
 }
-
 
 ul{
   list-style-type: none;
